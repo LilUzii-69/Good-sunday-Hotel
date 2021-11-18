@@ -1,5 +1,5 @@
 body {
-    background: #fff;
+    background: #f5e8d3;
     font-family: "Mukta Mahee", arial, sans-serif;
     font-weight: 200;
     font-size: 16px;
@@ -33,7 +33,7 @@ h2,
 h3,
 h4,
 h5 {
-    color: #000;
+    color: #A36005;
     font-family: "Playfair+Display", times, serif;
 }
 
@@ -1435,8 +1435,19 @@ textarea.form-control {
 .text-black {
     color: #000 !important;
 }
+
+
 /* =================================================================================== */
-.amen{
-    font-size:1.5rem;
-    font-weight:400
+
+.amen {
+    font-size: 1.5rem;
+    font-weight: 400
+}
+
+#myvideo {
+    position: fixed;
+    right: 0;
+    left: 0;
+    min-width: 500px;
+    min-height: 500px;
 }
