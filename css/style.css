@@ -1435,3 +1435,8 @@ textarea.form-control {
 .text-black {
     color: #000 !important;
 }
+/* =================================================================================== */
+.amen{
+    font-size:1.5rem;
+    font-weight:400
+}
