@@ -1451,3 +1451,11 @@ textarea.form-control {
     min-width: 500px;
     min-height: 500px;
 }
+
+#myaudio {
+    position: fixed;
+    right: 0;
+    left: 0;
+    min-width: 500px;
+    min-height: 500px;
+}
